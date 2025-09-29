@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+openai
+prisma
+python-dotenv
+html2text
+markdownify
+faiss-cpu
+numpy
+pydantic
+langchain_community
+cuid2
+Levenshtein
+httpagentparser
